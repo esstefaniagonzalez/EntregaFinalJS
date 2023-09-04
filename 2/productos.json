@@ -1,0 +1,28 @@
+{
+    "productos": [
+        {
+            "nombre": "Anillo Hong Kong",
+            "precio": "3000"
+        },
+        {
+            "nombre": "Pulsera Atenas",
+            "precio": "2800"
+        },
+        {
+            "nombre": "Collar Paris",
+            "precio": "6200"
+        },
+        {
+            "nombre": "Scrunchies",
+            "precio": "1000"
+        },
+        {
+            "nombre": "Anillo Roma",
+            "precio": "2800"
+        },
+        {
+            "nombre": "Collar Alaska",
+            "precio": "5000"
+        }
+    ]
+}
